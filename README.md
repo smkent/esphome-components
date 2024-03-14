@@ -2,7 +2,9 @@
 
 These are custom components for [ESPHome][esphome].
 
-* [i2cx2](components/i2cx2/)
+* [gc9a01](components/gc9a01/) - GC9A01 chipset round LCD modules
+* [i2cx2](components/i2cx2/) - Switch between two I2C data (SDA) lines using an
+  additional GPIO pin and MOSFETs
 
 # License
 
